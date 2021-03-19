@@ -28,7 +28,7 @@ django-cors-headers==2.2.0
 django-crispy-forms==1.7.2
 django-filter==1.1.0
 django-rest-swagger==2.2.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 ecdsa==0.13
 eventlet==0.23.0
 Flask==1.0.2
