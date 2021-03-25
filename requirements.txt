@@ -67,7 +67,7 @@ pyDes==2.0.1
 Pygments==2.2.0
 pyOpenSSL==18.0.0
 pytz==2018.4
-PyYAML==3.13
+PyYAML==5.4
 redis==2.10.6
 requests==2.18.4
 requests-toolbelt==0.8.0
