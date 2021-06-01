@@ -78,7 +78,7 @@ six==1.11.0
 tornado==5.1
 traitlets==4.3.2
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 uWSGI==2.0.17
 var-dump==1.2
 views==0.3
